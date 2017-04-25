@@ -1,0 +1,9 @@
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\bin\Debug\XMLCarga.exe.config
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\bin\Debug\XMLCarga.exe
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\bin\Debug\XMLCarga.pdb
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\obj\Debug\XMLCarga.csprojResolveAssemblyReference.cache
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\obj\Debug\XMLCarga.Form1.resources
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\obj\Debug\XMLCarga.Properties.Resources.resources
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\obj\Debug\XMLCarga.csproj.GenerateResource.Cache
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\obj\Debug\XMLCarga.exe
+c:\users\criss\documents\visual studio 2015\Projects\XMLCarga\XMLCarga\obj\Debug\XMLCarga.pdb
